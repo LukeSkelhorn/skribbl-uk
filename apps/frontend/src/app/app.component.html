@@ -1,2 +1,12 @@
 <h1>Skribl UK Test</h1>
+<canvas-whiteboard
+  #canvasWhiteboard
+  [options]="canvasOptions"
+  style="height: 500px; width: 500px;"
+  (onClear)="(canvasClear)"
+  (onUndo)="(canvasUndo)"
+  (onRedo)="(canvasRedo)"
+>
+  >
+</canvas-whiteboard>
 <router-outlet></router-outlet>

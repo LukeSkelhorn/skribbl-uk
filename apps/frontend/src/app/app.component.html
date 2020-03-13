@@ -1,12 +1,6 @@
-<h1>Skribl UK Test</h1>
-<canvas-whiteboard
-  #canvasWhiteboard
-  [options]="canvasOptions"
-  style="height: 500px; width: 500px;"
-  (onClear)="(canvasClear)"
-  (onUndo)="(canvasUndo)"
-  (onRedo)="(canvasRedo)"
->
-  >
-</canvas-whiteboard>
-<router-outlet></router-outlet>
+<h1>Skribbl UK</h1>
+<div class="container">
+  <skribbluk-players></skribbluk-players>
+  <skribbluk-drawing></skribbluk-drawing>
+  <skribbluk-chat></skribbluk-chat>
+</div>

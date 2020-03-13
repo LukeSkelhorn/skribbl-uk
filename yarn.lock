@@ -6649,10 +6649,10 @@ lodash.uniq@^4.5.0:
   resolved "https://registry.yarnpkg.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
-lodash@4.17.11:
-  version "4.17.11"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
-  integrity sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==
+lodash@4.17.13:
+  version "4.17.13"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.13.tgz#0bdc3a6adc873d2f4e0c4bac285df91b64fc7b93"
+  integrity sha512-vm3/XWXfWtRua0FkUyEHBZy8kCPjErNBT9fJx8Zvs+U6zjqPbTUOpkaoum3O5uiA8sm+yNMHXfYkTUHFoMxFNA==
 
 lodash@4.17.15, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.5, lodash@^4.5.0:
   version "4.17.15"
@@ -7172,12 +7172,12 @@ next-tick@~1.0.0:
   resolved "https://registry.yarnpkg.com/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
   integrity sha1-yobR/ogoFpsBICCOPchCS524NCw=
 
-ng2-canvas-whiteboard@^3.0.4:
-  version "3.0.4"
-  resolved "https://registry.yarnpkg.com/ng2-canvas-whiteboard/-/ng2-canvas-whiteboard-3.0.4.tgz#0c6deb71e151360ab3df4d07b0f692198d7d604a"
-  integrity sha512-uAHY+tBA2eBVBJeLkSEQyy2KwAYLCH3ap7QgxMQzq41FXE33JIKDa1yzkMSQayMAhgIBaCX+uOD7y0VBoPaiAw==
+ng2-canvas-whiteboard@^3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/ng2-canvas-whiteboard/-/ng2-canvas-whiteboard-3.1.1.tgz#1590e012625dbaf46849594becf09be0b16d37a0"
+  integrity sha512-Oi71jMtsxK26n1nc6rl8Ws4ht0jCQPyWZsvOhy5aI7P3uhnM6VCAcfzrnJAXY+NTxPEcy7UiNhzPRmqosOiodA==
   dependencies:
-    lodash "4.17.11"
+    lodash "4.17.13"
 
 nice-try@^1.0.4:
   version "1.0.5"
